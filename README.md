@@ -7,6 +7,6 @@
 
 ![alt Начальнвя страница](Screenshot_1.png)  
 
-![alt Начальнвя страница](Screenshot_2.png)  
+![alt Начальнвя страница](https://github.com/Ask1509/Linux_HW8/blob/d4fa84bbd9e1555d5f1a1f2d6130d2e263687b3f/Screenshot_2.png)  
 
 ![alt Начальнвя страница](Screenshot_3.png)  
